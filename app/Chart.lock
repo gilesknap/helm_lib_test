@@ -1,0 +1,6 @@
+dependencies:
+- name: test-lib
+  repository: file://../lib
+  version: 1.0.0
+digest: sha256:147552ba1ac56b3e414a04d694da1f9fda3d7c36746f33e2a95afcb24e2109c8
+generated: "2022-05-18T14:36:45.389187326+01:00"

@@ -1,0 +1,14 @@
+apiVersion: v2
+name: app-test
+description: |
+  a test app
+
+type: application
+
+version: 2021.2.0
+appVersion: 2021.2.0
+
+dependencies:
+  - name: test-lib
+    version: "1.0.0"
+    repository: file://../lib
