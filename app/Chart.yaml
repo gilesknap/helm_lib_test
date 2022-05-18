@@ -12,3 +12,5 @@ dependencies:
   - name: test-lib
     version: "1.0.0"
     repository: file://../lib
+    import-values:
+      - defaults

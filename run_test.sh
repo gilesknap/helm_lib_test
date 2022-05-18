@@ -20,5 +20,5 @@ data:
 
 ------------------ Actual output: 
 '
-helm dependency build app
+helm dependency update app
 helm template app

@@ -1,2 +1,4 @@
-beamline: BeamlineNameFromLibraryChart
-data: This Data is from the Library Chart values.yaml
+exports:
+  defaults:
+    beamline: BeamlineNameFromLibraryChart
+    data: This Data is from the Library Chart values.yaml
