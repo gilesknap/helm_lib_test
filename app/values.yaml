@@ -1,2 +1,3 @@
 beamline: BeamlineNameFromApplicationValues
+# don't define this with the intention that the library values will supply it !!
 # data: This Data is from the Library Chart values.yaml

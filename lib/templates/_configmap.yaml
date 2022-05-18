@@ -11,5 +11,7 @@ metadata:
     ioc_version: {{ .Chart.AppVersion | quote }}
     is_ioc: "True"
 data:
+    ---- Start of Values.data
     {{ .Values.data }}
+    ----- End of Values.data
 {{ end -}}
